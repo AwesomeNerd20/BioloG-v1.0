@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0",
+	"FriendlyName": "CustomizableInteractionPlugin",
+	"Description": "Seamlessly integrate an interaction system with customizable modes, detection, widgets & more. Made in C++ for optimization & advanced logic.",
+	"Category": "Other",
+	"CreatedBy": "Vinipi",
+	"CreatedByURL": "https://www.youtube.com/@vinipi7125",
+	"DocsURL": "https://vinipistudios.gitbook.io/cip_documentation/",
+	"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/customizable-interaction-plugin",
+	"SupportURL": "https://discord.gg/teeEf8Tepf",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "CustomizableInteractionPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
