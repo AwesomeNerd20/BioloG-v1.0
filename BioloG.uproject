@@ -47,10 +47,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Cargo",
-			"Enabled": true
-		},
-		{
 			"Name": "ApexDestruction",
 			"Enabled": true
 		}
