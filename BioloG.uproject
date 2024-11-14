@@ -51,11 +51,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WebBrowserWidget",
+			"Name": "WebAuth",
 			"Enabled": true
 		},
 		{
-			"Name": "WebAuth",
+			"Name": "WebBrowserWidget",
 			"Enabled": true
 		}
 	],
