@@ -49,6 +49,14 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		},
+		{
+			"Name": "WebAuth",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
